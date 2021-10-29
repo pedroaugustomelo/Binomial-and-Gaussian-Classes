@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Project created during the Data Science Nanodegree at Udacity. It implements binomial and Gaussian Classes
+Project created during the Data Science Nanodegree at Udacity. It implements binomial and Gaussian Classes under a package.
 
 ## Libraries Needed
 
